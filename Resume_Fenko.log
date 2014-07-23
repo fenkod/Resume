@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  22 JUL 2014 21:08
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.5.30)  22 JUL 2014 21:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -696,8 +696,24 @@ LaTeX Font Warning: Font shape `EU1/Garamond(1)/m/sc' undefined
 LaTeX Font Warning: Font shape `EU1/Garamond(0)/m/sc' undefined
 (Font)              using `EU1/Garamond(0)/m/n' instead on input line 80.
 
+.................................................
+. fontspec info: "no-scripts"
+. 
+. Font Garamond does not contain any OpenType `Script' information.
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Garamond(1)' created for font 'Garamond' with options
+. [Mapping=tex-text,,LetterSpace=20.0].
+. 
+. This font family consists of the following shapes:
+.................................................
+LaTeX Font Info:    Try loading font information for U+mvs on input line 153.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/marvosym/umvs.fd) [1
 
-Underfull \hbox (badness 2521) in paragraph at lines 145--145
+]
+Underfull \hbox (badness 2521) in paragraph at lines 153--153
 []\EU1/Garamond(0)/m/sc/10.95 Coordinated catering opportunities, inclusive of 
 pricing,
  []
@@ -715,10 +731,7 @@ pricing,
 . 
 . This font family consists of the following shapes:
 .................................................
-LaTeX Font Info:    Try loading font information for U+mvs on input line 158.
-(/usr/local/texlive/2013/texmf-dist/tex/latex/marvosym/umvs.fd) [1
-
-]
+[2]
 .................................................
 . fontspec info: "no-scripts"
 . 
@@ -732,8 +745,7 @@ LaTeX Font Info:    Try loading font information for U+mvs on input line 158.
 . 
 . This font family consists of the following shapes:
 .................................................
- [2]
-(./Resume_Fenko.aux)
+ [3] (./Resume_Fenko.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -741,10 +753,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  16270 strings out of 493938
  345608 string characters out of 6148857
- 373442 words of memory out of 5000000
+ 374442 words of memory out of 5000000
  19419 multiletter control sequences out of 15000+600000
  6992 words of font info for 48 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  58i,12n,47p,612b,443s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Resume_Fenko.pdf (2 pages).
+Output written on Resume_Fenko.pdf (3 pages).
